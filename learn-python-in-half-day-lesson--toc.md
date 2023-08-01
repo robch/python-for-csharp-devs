@@ -6,7 +6,7 @@ We've broken the journey down into 20 lessons, where each 10 minute lesson will:
 - List the key differences for each concept of feature from the perspective of a C# developer new to Python.
 - Expand on the concept or feature with examples and code snippets to illustrate its usage and the differences from C#.
 
-In addition, at the end of each less, we will:
+In addition, at the end of each lesson, we will:
 - Provide links to additional resources for further reading.
 - Include practice projects to apply your knowledge and enhance your skills.
 
