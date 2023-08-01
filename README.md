@@ -118,3 +118,38 @@ In addition, at the end of each less, we will:
 
 🔗 [Practice Projects](./learn-python-in-half-day-lesson-20.md)
 - Start working on small projects to apply your knowledge and enhance your skills.
+
+## Lesson 21: Multi-Threading in Python (10 minutes)
+
+🔗 [Multi-Threading in Python](./learn-python-in-half-day-lesson-21.md)
+- Introduce the concept of multi-threading and its benefits.
+- Learn how to create and manage threads in Python using the `threading` module.
+- Discuss the Global Interpreter Lock (GIL) and its impact on multi-threading in Python.
+
+## Lesson 22: Synchronization and Thread Safety (10 minutes)
+
+🔗 [Synchronization and Thread Safety](./learn-python-in-half-day-lesson-22.md)
+- Understand the challenges of concurrent access in multi-threaded programs.
+- Learn about thread synchronization techniques like locks, semaphores, and mutexes.
+- Discuss thread safety and potential issues when sharing data between threads.
+
+## Lesson 23: Asynchronous Programming with Async/Await (10 minutes)
+
+🔗 [Asynchronous Programming with Async/Await](./learn-python-in-half-day-lesson-23.md)
+- Introduce asynchronous programming and its advantages in I/O-bound tasks.
+- Learn how to use `async` and `await` keywords to define and await asynchronous functions.
+- Compare synchronous and asynchronous approaches for I/O-bound operations.
+
+## Lesson 24: Combining Threads and Async in Python (10 minutes)
+
+🔗 [Combining Threads and Async in Python](./learn-python-in-half-day-lesson-24.md)
+- Explore scenarios where multi-threading and asynchronous programming can be combined effectively.
+- Discuss best practices and potential challenges when using both techniques together.
+- Demonstrate an example of combining threads and async in a Python application.
+
+## Lesson 25: Performance Considerations with Threads and Async (10 minutes)
+
+🔗 [Performance Considerations with Threads and Async](./learn-python-in-half-day-lesson-25.md)
+- Compare the performance characteristics of multi-threading and asynchronous programming.
+- Discuss the trade-offs between the two approaches in different scenarios.
+- Explore tools and techniques to profile and optimize threaded and async code.
