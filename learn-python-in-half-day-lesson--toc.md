@@ -1,5 +1,5 @@
 # Python for C# devs
-As a C# developer with decades of experience, quickly becoming proficient at Python will be relatively easy.
+As a C# developer, you can quickly become proficient at Python.
 
 We've broken the journey down into 20 lessons, where each 10 minute lesson will:
 - Focus on a specific concept or feature that distinguishes Python from C#.
