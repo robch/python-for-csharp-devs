@@ -3,7 +3,7 @@
 Welcome to Python! In this first lesson, we'll get you set up with Python on your machine, create a development environment, and introduce you to running Python scripts and the Python interpreter.
 
 ## Python Installation:
-1. **Download Python**: Go to the official Python website (https://www.python.org/) and download the latest version of Python. Make sure to choose the appropriate installer for your operating system (Windows, macOS, or Linux).
+1. **Download Python**: Go to the official Python website [https://www.python.org/](https://www.python.org/) and download the latest version of Python. Make sure to choose the appropriate installer for your operating system (Windows, macOS, or Linux).
 
 2. **Install Python**: Run the downloaded installer and follow the installation wizard's instructions. Make sure to check the option to add Python to your system PATH during installation. This allows you to run Python from the command line or terminal.
 
@@ -25,10 +25,10 @@ Welcome to Python! In this first lesson, we'll get you set up with Python on you
 Now that you've installed Python and set up your development environment, you're ready to dive deeper into Python's syntax and features. Stay tuned for Lesson 2, where we'll explore Python's basic syntax and indentation!
 
 ## Additional Resources:
-- Official Python Website: https://www.python.org/
-- Visual Studio Code: https://code.visualstudio.com/
-- PyCharm: https://www.jetbrains.com/pycharm/
-- Atom: https://atom.io/
+- Official Python Website: [https://www.python.org/](https://www.python.org/)
+- Visual Studio Code: [https://www.code.visualstudio.com/](https://code.visualstudio.com/)https://code.visualstudio.com/
+- PyCharm: [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+- Atom: [https://atom.io/](https://atom.io/)
 
 ## Practice Projects:
 - Write a simple Python script that prints "Hello, Python!" to the console.
